@@ -19,8 +19,8 @@ public class Connector {
      private static Connection conn;
      public static Connection start() {
         String url="jdbc:mysql://www.db4free.net:3306/barkaniza?useSSL=false";
-        String user="doug2006";
-        String pass="barkaniza";
+        String user="*****";
+        String pass="*****";
        
        
        
